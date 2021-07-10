@@ -4,7 +4,7 @@
 }
 body {
     font-family: 'Abril Fatface', cursive;
-    font-size: 20px;
+    font-size: 12px;
 }
 
 .hero {
@@ -88,18 +88,18 @@ nav li a:hover{
     padding: 0 30px;
     outline: none;
     margin: 20px 0;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 ::placeholder{
     font-weight: 400;
-    font-size: 20px;
+    font-size: 14px;
 }
 
 .content a{
     text-decoration:none;
     color: #fff;
-    font-size: 20px;
+    font-size: 14px;
 
 }
 
@@ -215,7 +215,7 @@ nav li a:hover{
 
 .about p{
     color: #535353;
-    font-size: 20px;
+    font-size: 14px;
     line-height: 30px;
 }
 
