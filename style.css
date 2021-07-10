@@ -4,7 +4,7 @@
 }
 body {
     font-family: 'Abril Fatface', cursive;
-    font-size: 12px;
+    font-size: 17px;
 }
 
 .hero {
@@ -215,7 +215,7 @@ nav li a:hover{
 
 .about p{
     color: #535353;
-    font-size: 14px;
+    font-size: 17px;
     line-height: 30px;
 }
 
@@ -236,7 +236,7 @@ nav li a:hover{
     margin: 80px 0;
     background: #ff5361;
     color: #535353;
-    font-size: 17px;
+    font-size: 14px;
 }
 
 .footer h2{
